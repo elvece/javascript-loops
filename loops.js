@@ -6,37 +6,38 @@ while (number <= 10) {
 }
 
 //solution 1
-for (i = 0; i <= 1000; i+=100) {
+for (var i = 0; i <= 1000; i+=100) {
   console.log(i);
 }
 
 //solution 2
-for (i = 1; i <= 128; i*=2) {
+for (var i = 1; i <= 128; i*=2) {
   console.log(i);
 }
 
 //solution 3
-for (i = 0; i <= 10; i+=2) {
+for (var i = 0; i <= 10; i+=2) {
   console.log(i);
 }
 
 //solution 4
-for (i = 3; i <= 15; i+=2) {
+for (var i = 3; i <= 15; i+=2) {
   console.log(i);
 }
 
 //solution 5
-for (i = 9; i >= 0; i--) {
+for (var i = 9; i >= 0; i--) {
   console.log(i);
 }
 
-//solution 6 
-for (i = 0; i < 12; i++) {
-  console.log(Math.floor(i/3) + 1);
-}
+//solution 6
+for(var i = 1; i <= 4; i++){
+  for(var j = 0; j < 3; j++){
+  console.log(i);}
+ }
 
 //solution 7
-for (i = 0; i <= 4; i++) {
-  var j =
-  console.log();
+for(var i = 1; i < 4; i++){
+  for(var j = 0; j <= 4; j++){
+  console.log(j);}
 }
