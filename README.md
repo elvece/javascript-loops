@@ -1,4 +1,6 @@
-# JavaScript Loops
+## JavaScript Loops
+
+***This repo contains my solutions to the following exercises:***
 
 1. Create a blank, valid HTML5 document.
 1. Create a JavaScript file
